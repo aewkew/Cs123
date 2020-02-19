@@ -1,12 +1,96 @@
 [
+{
+  "id" :"1",
+  "name" : "ทอดมันกุ้ง",
+   "price": 69,
+   "pic": "https://scm-assets.constant.co/scm/unilever/e9dc924f238fa6cc29465942875fe8f0/34f65914-d21a-4460-b955-d480e8bb7d0b.jpg"
+ },
+{
+  "id" :"2",
+ "name" : "ทอดมันปลากาย",
+   "price": 69,
+   "pic": "https://scm-assets.constant.co/scm/unilever/e9dc924f238fa6cc29465942875fe8f0/704e4f11-9caf-49c8-a910-f970b87d2b66.jpg"
+ },
  {
-   "name" : "ผัดกระเพรา",
-    "price": 20,
-    "pic": "https://www.culinarybusiness.com/wp-content/uploads/2019/10/sweet-basil-.jpg"
-  },
+  "id" :"3",
+   "name" : "ไก้ทอดน้ำปลา",
+   "price": 60,
+   "pic": "https://i.imgur.com/QQDZQkt.jpg"
+
+ },
  {
-  "name" : "ต้มจืด",
-    "price": 50,
-    "pic": "https://xn--q3cp7eza.net/media/images/recipe/%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%88%E0%B8%B7%E0%B8%94%E0%B8%9F%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%AA%E0%B8%B1%E0%B8%9A.jpg"
-  }
+  "id" :"4",
+   "name" : "ห่อหมกทะเลมะพร้าวอ่อน",
+   "price": 120,
+   "pic": "https://i.imgur.com/xw4wqp2.jpg"
+ },
+ {
+  "id" :"5",
+   "name" : "ต้ำยำปลา",
+   "price": 145,
+   "pic": "https://i.imgur.com/HHaLRNG.jpg"
+ },
+ {
+  "id" :"6",
+   "name" : "เนื้อแดดเดียวทอด",
+   "price": 60,
+   "pic": "https://i.imgur.com/X8pXRya.jpg"
+ },
+ {
+  "id" :"7",
+   "name" : "แกงส้มแป๊ะซะปลาช่อน",
+   "price": 240,
+   "pic": "https://i.imgur.com/TjU6OHq.jpg"
+ },
+ {
+  "id" :"8",
+   "name" : "ต้มซุปเปอร์",
+   "price": 75,
+   "pic": "https://i.imgur.com/4a8kso7.jpg"
+ },
+ {
+  "id" :"8",
+   "name" : "ยำปลาดุกฟู",
+   "price": 80,
+   "pic": "https://www.knorr.com/content/dam/unilever/global/recipe_image/131/13103/131038-default.jpg/_jcr_content/renditions/cq5dam.web.800.600.jpeg"
+ },
+ { 
+  "id" :"9",
+   "name" : "ยำวุ้นเส้น หมู/ทะเล",
+   "price": 60,
+   "pic": "https://i.imgur.com/NJoIwPl.jpg"
+ },
+ {
+  "id" :"10",
+   "name" : "ปลากระพงทอดน้ำปลา",
+   "price": 260,
+   "pic": "https://i.imgur.com/x44gkWg.jpg"
+ },
+ {
+  "id" :"11",
+   "name" : "ปลากระพงทอดสมุนไพร",
+   "price": 220,
+   "pic": "https://i.imgur.com/MY5oZlT.jpg"
+ },
+ {
+  "id" :"12",
+   "name" : "ปลานึ่งมะนาว",
+   "price": 210,
+   "pic": "https://i.imgur.com/TeQqZ9d.jpg"
+ },
+ {
+  "id" :"13",
+   "name" : "หมูมะนาว",
+   "price": 80,
+   "pic": "https://i.imgur.com/3IzWyhH.jpg"
+ },
+ {
+  "id" :"14",
+   "name" : "ปลาช่อนโบราณ",
+   "price": 280,
+   "pic": "https://i.imgur.com/PNI1Ryu.jpg"
+ }
 ]
+
+
+
